@@ -1,36 +1,25 @@
 # df-kuiper-survey-log
 
-**Extended Interface Survey Array (EISA)**  
-**Unit 04 – KUIPER**  
-**Telemetry Mirror Archive | Log Date: 2041.07.29**
+ **Unit 04-KUIPER** **Telemetry Mirror Archive | Log Date: 2041.07.29** **Extended Interface Survey Array (EISA)**
 
-> _Mission Classification: Deep Field Survey_  
-> _Contractor: Cortex Astrionics_  
-> _Governing Entity: Nullfield Systems_  
-> _Region: Sagittarius A* Periphery_  
-> _Designation: Anomaly 41-Θ-Σ_  
-> _Observation Status: RECURSIVE_
+ > _Contractor: Cortex Astrionics_ _Governing Entity: Nullfield Systems_ 
 
----
+ ## Summary
 
-## Overview
+ **Nullfield Systems** contracted to launch EISA-04-KUIPER to survey anomalies within the Sagittarius A* envelope.  The Cortex-A3 Observation Stack was used by the probe to function independently.
 
-EISA-04-KUIPER was deployed under contract by **Nullfield Systems** to survey relativistic anomalies within the gravitational envelope of Sagittarius A*. The probe operated autonomously using the Cortex-A3 Observation Stack.
+ Transmission logs from **2041.07.29** showed non-spectral and visual data that was consistent with **extrastellar geometric anomalies**.  Telemetry integrity deteriorated and the time signature reversed shortly after **Object 41-Θ-Σ** was detected.
 
-On **2041.07.29**, transmission logs captured visual and non-spectral data consistent with **extrastellar geometric anomalies**. Shortly after detection of **Object 41-Θ-Σ**, telemetry integrity degraded, and time signature reversal occurred.
+ ---
 
-All vectors remain unanchored.
+ ## Snapshot of the Transmission
 
----
-
-## Transmission Snapshot
-
-```log
-[BOOT SEQUENCE COMPLETE]  
-[OPERATING ENTITY: CORTEX ASTRIONICS]  
-[CAMERA FEED: ACTIVE]  
-[ANOMALY DETECTED — 41-Θ-Σ]  
-[SHAPE: NON-STELLAR / GEOMETRIC — CUBE]  
-[MASS: ∞ | TEMP: 10,764.3°C | EMISSION: NON-SPECTRAL]  
-[TIME SIGNATURE: INVERTED]  
-[OBSERVATION STATUS: RECURSIVE]  
+ ```log
+ [FINAL BOOT SEQUENCE]  
+ [CORTEX ASTRIONICS, OPERATING ENTITY]  
+ [ACTIVE CAMERA FEED]  
+ [DETECTED ANOMALY — 41-Θ-Σ]  
+ [SHAPE: CUBE, NON-STELLAR, GEOMETRIC]  
+ [TEMP: 10,764.3°C | EMISSION: NON-SPECTRAL | MASS: ∞]  
+ [INVERTED TIME SIGNATURE]  
+ [STATUS OF OPERATION: RECURSIVE]
